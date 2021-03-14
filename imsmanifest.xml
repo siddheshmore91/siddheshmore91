@@ -1,0 +1,143 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="Incredible_India" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Incredible India</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Incredible India</langstring>
+        </description>
+        <keyword>
+          <langstring xml:lang="x-none">Incredible India</langstring>
+        </keyword>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Incredible_India_ORG">
+    <organization identifier="Incredible_India_ORG">
+      <title>Incredible India</title>
+      <item identifier="Incredible_India_SCO" isvisible="true" identifierref="_Incredible_India_RES">
+        <title>Incredible India</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="_Incredible_India_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5sSdOnKZRAk_DX252_DY252_CX88_CY126.png" />
+      <file href="mobile/5qNcU3mdR3h_DX1390_DY1390_CX695_CY572.png" />
+      <file href="mobile/6GRbq6gqVfF_DX712_DY712_CX356_CY206.png" />
+      <file href="mobile/5aQdua5t6KP_DX730_DY730_CX365_CY263.png" />
+      <file href="mobile/6K2o5AGVPPD_DX854_DY854_CX190_CY427.png" />
+      <file href="mobile/6EHUluWGFyU_DX776_DY776_CX345_CY388.png" />
+      <file href="mobile/5XfaWKUYDOf_DX850_DY850_CX425_CY243.png" />
+      <file href="mobile/6MN9QxKvwzu_DX726_DY726_CX363_CY307.png" />
+      <file href="mobile/5vHjUQOtANb_DX2048_DY2048_CX1024_CY768.png" />
+      <file href="story_content/5fdvB3Gq7lD_22050_56_0.mp3" />
+      <file href="mobile/6hkLRpRZ3XE_DX332_DY332_CX248_CY241.jpg" />
+      <file href="mobile/5ewQ6xSz9A4_DX332_DY332_CX248_CY241.jpg" />
+      <file href="mobile/5vDcHjZ35fS_DX332_DY332_CX248_CY241.jpg" />
+      <file href="mobile/6YQwJnXt2hz_DX332_DY332_CX248_CY241.jpg" />
+      <file href="mobile/5dQUlj92lGx_DX332_DY332_CX248_CY241.jpg" />
+      <file href="mobile/6RU8T5B857S_DX332_DY332_CX248_CY241.jpg" />
+      <file href="mobile/6DJMlNbb6aQ_DX2048_DY2048_CX1024_CY52.jpg" />
+      <file href="mobile/6OatATXQxup_DX68_DY68_CX39_CY39.jpg" />
+      <file href="mobile/6OatATXQxup_DX68_DY68_CX51_CY51.jpg" />
+      <file href="mobile/67kI7hiz1zD_DX68_DY68_CX39_CY39.jpg" />
+      <file href="mobile/67kI7hiz1zD_DX68_DY68_CX51_CY51.jpg" />
+      <file href="mobile/63dgDGwjRog_DX68_DY68_CX39_CY39.jpg" />
+      <file href="mobile/63dgDGwjRog_DX68_DY68_CX51_CY51.jpg" />
+      <file href="mobile/5gULy5jF5WN_DX68_DY68_CX39_CY39.jpg" />
+      <file href="mobile/5gULy5jF5WN_DX68_DY68_CX51_CY51.jpg" />
+      <file href="story_content/5akHQ1e6KxR_22050_56_0.mp3" />
+      <file href="mobile/6gr5t6LY6wX_DX124_DY124_CX93_CY93.png" />
+      <file href="story_content/64ZATnoc4ao_22050_56_0.mp3" />
+      <file href="mobile/5YQrhV3dtrT_DX860_DY860_CX503_CY456.png" />
+      <file href="mobile/5nb82ulgLnB_DX372_DY372_CX225_CY225.png" />
+      <file href="mobile/5VxCAasAimP_DX372_DY372_CX225_CY225.png" />
+      <file href="mobile/6TQpFpfx9af_DX372_DY372_CX225_CY225.png" />
+      <file href="story_content/61YKd1CdyEP_22050_56_0.mp3" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide5w74SupdWel.jpg" />
+      <file href="mobile/Slide6fVhFcmK1pB.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5l2HnzPZQby.js" />
+      <file href="html5/data/js/63aYdJmxnjq.js" />
+      <file href="html5/data/js/6ljTRa5ppzO.js" />
+      <file href="html5/data/js/6Mkzl1dsYp8.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/app.min.js" />
+      <file href="html5/lib/stylesheets/main.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="story.html" />
+      <file href="story_html5.html" />
+      <file href="analytics-frame.html" />
+      <file href="story_content/blank.html" />
+      <file href="story_content/story.js" />
+      <file href="index_lms.html" />
+      <file href="index_lms_html5.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/AICCFunctions.js" />
+      <file href="lms/API.js" />
+      <file href="lms/APIConstants.js" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/Configuration.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/lms.js" />
+      <file href="lms/LMSAPI.js" />
+      <file href="lms/NONEFunctions.js" />
+      <file href="lms/SCORM2004Functions.js" />
+      <file href="lms/SCORMFunctions.js" />
+      <file href="lms/UtilityFunctions.js" />
+    </resource>
+  </resources>
+</manifest>
